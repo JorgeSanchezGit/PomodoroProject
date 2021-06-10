@@ -47,7 +47,7 @@
                     <item value="13"/>
                   </model>
                   <opaque value="true"/>
-                  <selectedIndex value="0"/>
+                  <selectedIndex value="-1"/>
                   <selectionMode value="0"/>
                   <valueIsAdjusting value="false"/>
                 </properties>
